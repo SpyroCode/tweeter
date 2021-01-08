@@ -1,4 +1,4 @@
-module github.com\tweeter
+module github.com/SpyroCode/tweeter
 
 go 1.13
 
